@@ -1,7 +1,7 @@
 # Codsoft-Internship-Task3
 Hello! I am Miralba Solanki. Welcome to my GitHub repository! 
 
-Task 3 : Password Generator 
+Task 3 : PASSWORD GENERATOR
 
 A password generator is a useful tool that generates strong and
 random passwords for users. This project aims to create a
